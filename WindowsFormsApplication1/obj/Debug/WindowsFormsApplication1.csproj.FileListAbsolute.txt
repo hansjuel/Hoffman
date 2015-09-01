@@ -1,0 +1,18 @@
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\2AvanceTutoriales\9Tutoriales nuevosAVANCE\3C#\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\0000 OCTAVO SEMESTRE GABI\4 Taller de base de datos(Ing. Veronica)\FormPedidosPorLLamada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
